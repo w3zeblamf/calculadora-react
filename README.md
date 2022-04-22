@@ -1,3 +1,15 @@
+# freeCodeCamp en Español: Curso de React
+
+  * Proyecto: Calculadora interactive con React 
+
+Ver los detalles del proyecto original en el curso React, canal de YouTube de freeCodeCamp
+
+https://www.youtube.com/watch?v=6Jfk8ic3KVk
+
+P.D. " Con fines de auto aprendizaje y entrenamiento "
+
+# ==================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
